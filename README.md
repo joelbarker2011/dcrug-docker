@@ -1,24 +1,7 @@
-# README
+This is a demo of using Ruby on Rails on Docker.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It was made for the DC Ruby Users Group.
 
-Things you may want to cover:
+Check out the commit history; each commit demonstrates a different aspect.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+See the DCRUG slideshow here: https://docs.google.com/presentation/d/1fWL3kRtMf3LuyIawW7laboGqZ_fH1NJzkJTdmkifXsY
